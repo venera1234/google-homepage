@@ -1,0 +1,1 @@
+The current project is about learning and putting knowlage to the test about devtools and web pages placement.
